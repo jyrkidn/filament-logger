@@ -2,6 +2,14 @@
 
 All notable changes to `filament-logger` will be documented in this file.
 
+## v1.1.0 - 2026-01-20
+
+### What's Changed
+
+* Add Filament 5 support by @Jacobtims in https://github.com/Jacobtims/filament-logger/pull/4
+
+**Full Changelog**: https://github.com/Jacobtims/filament-logger/compare/v1.0.0...v1.1.0
+
 ## 1.0.0 - 2025-08-20
 
 ### What's Changed
